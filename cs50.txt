@@ -16,3 +16,4 @@ transistors turn on nd off
 
 1 byte =8 bits
   
+hello
